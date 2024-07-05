@@ -116,8 +116,8 @@
 
    select{
     flex: 1;    
-    height: 50px;
-    padding: 2px;
+    height: 40px;
+    padding: 20px;
     border-radius: 35px;
     background-image: url(/images/dropdown.png);
     background-repeat: no-repeat;
