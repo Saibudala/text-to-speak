@@ -104,7 +104,8 @@
 
 @media screen and (max-width: 480px) {
    .row {
-      flex-direction:row;  
+       
+      flex-direction:column;  
    }
 
    .hero h1{
